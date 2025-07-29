@@ -3,35 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Wen-Hai Tseng | CV</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 2em;
-      background: #f8f9fa;
-      color: #212529;
-    }
-    h1, h2, h3 {
-      color: #343a40;
-    }
-    h1 {
-      text-align: center;
-      margin-bottom: 0.2em;
-    }
-    p.center {
-      text-align: center;
-      margin-top: 0;
-      margin-bottom: 1em;
-    }
-    section {
-      margin-bottom: 2em;
-    }
-    ul {
-      padding-left: 1.2em;
-    }
-  </style>
+  
 </head>
 <body>
   <h1>Wen-Hai Tseng</h1>
